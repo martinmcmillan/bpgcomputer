@@ -18,6 +18,10 @@ p {
     font-family: Helvetica, sans-serif;
 }
 
+.mission {
+    font-weight: bold;
+}
+
 pre {
     font-family: monospace;
     text-align: left;
