@@ -19,10 +19,28 @@ p {
 }
 
 .mission {
+    font-family: serif;
     font-weight: bold;
 }
 
-pre {
+.bio {
+    font-family: serif;
+    font-weight: bold;
+}
+
+.copyright {
+    font-family: serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+.contact {
+    font-family: serif;
+    font-weight: bold;
+    font-size: small;
+}
+
+pre.contact {
     font-family: monospace;
     text-align: left;
 }
@@ -32,69 +50,12 @@ h1 {
     text-align: center;
     font-variant: small-caps;
     font-family: Helvetica, sans-serif;
-}
-
-h2 {
-    color: #0000FF;
-    text-align: center;
-    font-family: Helvetica, sans-serif;
-}
-
-h3 {
-    color: #FF0000;
-    text-align: center;
-    font-family: Helvetica, sans-serif;
+    font-family: bold;
 }
 
 h6 {
     color: #FF0000;
     text-align: center;
     font-family: Helvetica, sans-serif;
+    font-weight: bold;
 }
-
-.a {
-    color: #0000FF;
-    font-family: Helvetica, sans-serif;
-}
-
-h4 {
-    color: #FF0000;
-    text-align: center;
-    font-family: Helvetica, sans-serif;
-}
-
-h6 {
-    color: #FF0000;
-    text-align: center;
-    font-family: Helvetica, sans-serif;
-}
-
-small {
-    color: #FF0000;
-    font-family: Helvetica, sans-serif;
-}
-
-
-/*
-     FILE ARCHIVED ON 20:57:01 Jul 09, 2019 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 08:05:49 May 01, 2022.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-
-
-/*
-playback timings (ms):
-  captures_list: 252.598
-  exclusion.robots: 0.086
-  exclusion.robots.policy: 0.081
-  RedisCDXSource: 0.746
-  esindex: 0.006
-  LoadShardBlock: 235.76 (3)
-  PetaboxLoader3.datanode: 141.283 (5)
-  CDXLines.iter: 14.399 (3)
-  PetaboxLoader3.resolve: 353.367 (3)
-  load_resource: 1258.21 (2)
-*/
