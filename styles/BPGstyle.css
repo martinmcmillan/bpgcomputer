@@ -50,7 +50,8 @@ h1 {
     text-align: center;
     font-variant: small-caps;
     font-family: Helvetica, sans-serif;
-    font-family: bold;
+    font-weight: bold;
+    font-size: 4rem;
 }
 
 h6 {
